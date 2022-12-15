@@ -16,3 +16,4 @@ View(oop)
 ri <- divBasic('dataf2.gen')
 View(ri)
 ri[["HWE"]]
+ b <- 2+3
